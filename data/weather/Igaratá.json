@@ -1,0 +1,1 @@
+{"id": "weather.forecast", "code": 500, "detail": "failed to get weather forecast", "status": "Internal Server Error"}
